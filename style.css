@@ -1,0 +1,46 @@
+.welcome {
+   text-align: center;
+  color: white;
+  font-size:40px;
+    }
+
+.introduction {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+.list {
+  text-align: center;
+   color: white;
+  font-size: 30px;
+  }
+
+.image {
+ width:1200px;
+  height:500;
+  border-radius: 100px;
+}
+ 
+.button {
+  display:inline-block;
+  background-color:white;
+  text-align:center;
+  color:teal;
+  font-size: 30px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}ß
+
+.footer {
+  color:white;
+}
+
+.about {
+  text-align:center;
+  color:teal;
+  font-size: 40px;
+}
